@@ -1,6 +1,6 @@
 package br.com.nhac.nhac_lojas.model.loja;
 
-public class LojaEntity {
+public class Loja {
     private String id;
     private String nome;
     private String descricao;
